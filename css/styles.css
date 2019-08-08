@@ -50,7 +50,6 @@ body {
 .person {
   width: 200px;
   height: 231px;
-  overflow: hidden;
   transition-duration: 1s;
 }
 
@@ -63,7 +62,6 @@ body {
   position: absolute;
   top: 0;
   z-index: 10;
-  overflow: visible;
 }
 
 .person:hover img {
